@@ -1,4 +1,4 @@
-__# Fibonacci app
+## Fibonacci app
 
 This project contains a Spring Boot application. It that has a single endpoint that calculates the Nth Fibonacci number.
 
